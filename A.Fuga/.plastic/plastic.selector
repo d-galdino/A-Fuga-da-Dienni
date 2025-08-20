@@ -1,0 +1,4 @@
+repository "A.Fuga 2025-07-09_19-14-09/A.Fuga@4674078834036@cloud"
+  path "/"
+    br "/main"
+    co "/main"
